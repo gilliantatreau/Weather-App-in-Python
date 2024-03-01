@@ -6,7 +6,7 @@ Demonstrates Python basics, including functions and for loops. API pull for weat
 ## How to Run Code Locally
 - Clone repo
 - Go into repository on local device
-- In the config.py file, add your API secret key to the my_key variable instead of YOUR SECRET KEY and save changes
+- In the config.py file, add your API secret key to the api_key variable instead of YOUR SECRET KEY and save changes
 - Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
