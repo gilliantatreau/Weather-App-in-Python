@@ -1,6 +1,10 @@
 # Author Gillian Tatreau
 # Date Created 13 August 2022
 import requests
+
+# if using jupyter notebook, to import config file if saved in .ipynb file
+# import import_ipynb
+
 import config
 
 
@@ -27,9 +31,9 @@ def call_functions():
     while True:
         city_or_zip = input("how would you like to search for the weather forecast? "
                             "please enter 1 for us city name or 2 for us zip code: ")
-        if int(city_or_zip) == 1:
+        if city_or_zip == "1":
             break
-        elif int(city_or_zip) == 2:
+        elif city_or_zip == "2":
             break
         else:
             print("please enter 1 for city name or 2 for zip code")
