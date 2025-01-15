@@ -5,12 +5,14 @@ Demonstrates Python basics, including functions and for loops. API pull for weat
 
 ## How to Run Code Locally
 - Clone repo
+- Create API secret key for Weather API on OpenWeatherMap (https://openweathermap.org/api)
 - Go into repository on local device
 - In the config.py file, add your API secret key to the api_key variable instead of YOUR SECRET KEY and save changes
 - Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
 - requests
+- import_ipynb (if the config file is not saved as a .py file and as a .ipynb file instead)
 
 ## Contact
 Gillian Tatreau – gillie.tatreau97@gmail.com
