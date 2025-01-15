@@ -12,7 +12,7 @@ Demonstrates Python basics, including functions and for loops. API pull for weat
 
 ## Libraries Used
 - requests
-- import_ipynb (if the config file is not saved as a .py file and as a .ipynb file instead)
+- import_ipynb (if the config file is saved as a .ipynb file instead of a .py file)
 
 ## Contact
 Gillian Tatreau – gillie.tatreau97@gmail.com
